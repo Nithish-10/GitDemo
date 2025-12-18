@@ -5,7 +5,7 @@
 
   <groupId>Selenium</groupId>
   <artifactId>ExtentReports</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
 
   <name>ExtentReports</name>
   <!-- FIXME change it to the project's website -->
