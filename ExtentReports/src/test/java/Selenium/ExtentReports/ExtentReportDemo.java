@@ -41,6 +41,7 @@ public class ExtentReportDemo {
         driver.get("https://rahulshettyacademy.com");
         System.out.println(driver.getTitle());
         System.out.println("hello world");
+        System.out.println("hello world");
 
         //test.addScreenCaptureFromBase64String("screenshotBase64String");
         test.fail("Result do not match");  // to mark the test as failed
